@@ -5,6 +5,7 @@ Récupérer des articles depuis Le Gorafi, les stocker dans un CSV et détecter 
 
 ## Source utilisée
 - Le Gorafi
+- France Info
 
 ## Données récupérées
 - title
